@@ -1,0 +1,14 @@
+body{
+    font-size: 28px;
+}
+.row{
+    display: flex;
+}
+.col{
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
