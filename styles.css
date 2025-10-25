@@ -12,3 +12,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.player1-color{
+    background-color: red;
+}
+
+.player2-color{
+    background-color: blue;
+}
